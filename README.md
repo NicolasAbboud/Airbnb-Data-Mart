@@ -32,23 +32,23 @@ The main entities and relationships include:
 - Allows meaningful query results for demonstration.
 
 ## ⚙️ Setup Instructions
-*1. Clone Repository / Get Files*
+1. Clone Repository / Get Files
 ``
 git clone <repo_url>
 cd airbnb-database
 ``
 
-*2. Create Database in MySQL*
+2. Create Database in MySQL
 ``
 CREATE DATABASE airbnb_datamart_nicolas;
 ``
 
-*3. Run SQL Script*
+3. Run SQL Script
 ``
 mysql -u <username> -p airbnb_datamart_nicolas < sql_file_airbnb_datamart.sql
 ``
 
-*4. Verify Tables*
+4. Verify Tables
 ``
 SHOW TABLES;
 ``
