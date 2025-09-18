@@ -34,7 +34,7 @@ The main entities and relationships include:
 ## ⚙️ Setup Instructions
 1. Clone Repository / Get Files
 ```
-git clone <repo_url>
+git clone [<repo_url>](https://github.com/NicolasAbboud/Airbnb-Data-Mart)
 cd airbnb-database
 ```
 
