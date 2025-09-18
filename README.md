@@ -40,12 +40,12 @@ cd airbnb-database
 
 2. Create Database in MySQL
 ```
-CREATE DATABASE airbnb_datamart_nicolas;
+CREATE DATABASE airbnb_datamart;
 ```
 
 3. Run SQL Script
 ```
-mysql -u <username> -p airbnb_datamart_nicolas < sql_file_airbnb_datamart.sql
+mysql -u <username> -p airbnb_datamart < sql_file_airbnb_datamart.sql
 ```
 
 4. Verify Tables
