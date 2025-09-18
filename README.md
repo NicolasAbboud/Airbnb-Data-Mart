@@ -12,19 +12,19 @@ This project implements a relational database for the Airbnb use case, modeling 
 
 ## 🗂️ Database Schema
 The main entities and relationships include:
-- *Guest* – Core user profile (guests can also be hosts).
-- *Host* – Property owners linked to guests.
-- *TravelAdmin* – Platform administrators overseeing reservations.
-- *SocialNetwork / GuestSocialNetwork* – Social media integration.
-- *LoginHistory / Notification* – Security and communication logs.
-- *City / Location* – Geographical data.
-- *VacationRental / Room* – Property and room listings.
-- *Amenity / VacationRentalAmenity* – Features available per property.
-- *CancellationPolicy / VacationRentalPolicy* – Refund rules.
-- *Booking / Transaction / Reservation* – Reservation and payment flow.
-- *Review* – Guest ↔ Host feedback system.
-- *CustomerService* – Support ticket management.
-- *Event / Promotion* – Local events and discount campaigns.
+- **Guest** – Core user profile (guests can also be hosts).
+- **Host** – Property owners linked to guests.
+- **TravelAdmin** – Platform administrators overseeing reservations.
+- **SocialNetwork / GuestSocialNetwork** – Social media integration.
+- **LoginHistory / Notification** – Security and communication logs.
+- **City / Location** – Geographical data.
+- **VacationRental / Room** – Property and room listings.
+- **Amenity / VacationRentalAmenity** – Features available per property.
+- **CancellationPolicy / VacationRentalPolicy** – Refund rules.
+- **Booking / Transaction / Reservation** – Reservation and payment flow.
+- **Review** – Guest ↔ Host feedback system.
+- **CustomerService** – Support ticket management.
+- **Event / Promotion** – Local events and discount campaigns.
 
 ## 📊 Dummy Data
 - Each table is populated with at least 20 records.
